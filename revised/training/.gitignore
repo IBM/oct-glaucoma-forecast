@@ -1,0 +1,9 @@
+.DS_Store/
+*~
+__pycache__/
+*.pyc
+tempmvae_ld32/
+tempmvae_ld32_orig/
+MSEsync_nonadj_euler_ce_temp_mlode32_foldseed2/
+pretrain_temp_mlode32_foldseed2/
+odegru_foldseed2/
